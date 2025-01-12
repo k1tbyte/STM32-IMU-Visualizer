@@ -1,0 +1,67 @@
+# Directories
+build/
+Debug/
+Release/
+.settings/
+[Bb]uild/
+[Dd]ebug/
+[Rr]elease/
+
+# CubeMX generated files
+.mxproject
+
+# IDEs and editors
+.idea/
+*.swp
+*.swo
+.project
+.cproject
+.settings/
+*.launch
+
+# Build files
+*.o
+*.d
+*.eep
+*.elf
+*.hex
+*.bin
+*.map
+*.lst
+*.su
+
+# CMake files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.cmake
+
+# STM32CubeIDE specific
+.metadata/
+RemoteSystemsTempFiles/
+*.launch
+*.ld
+
+# Dependencies
+_deps/
+
+# Backup files
+*.bak
+*~
+*.orig
+
+# Other common files to ignore
+*.log
+*.dump
+.DS_Store
+Thumbs.db
+./frontend/venv
+build.ninja
+embedded/Drivers/*
+embedded/Middlewares/*
+embedded/Core/Src/system_stm32*
+embedded/Core/Src/*_hal_msp.c
+embedded/Core/Src/*_it.c
+embedded/Core/Src/stm32f4xx_*.c
+embedded/Core/Inc/stm32f4xx_*.h

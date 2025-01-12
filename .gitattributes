@@ -1,0 +1,6 @@
+# Mark generated files
+embedded/Drivers/* linguist-generated=true
+embedded/Middlewares/* linguist-generated=true
+embedded/Core/Src/system_stm32* linguist-generated=true
+embedded/Core/Src/*_hal_msp.c linguist-generated=true
+embedded/Core/Src/*_it.c linguist-generated=true
