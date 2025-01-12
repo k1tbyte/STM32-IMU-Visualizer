@@ -5,6 +5,10 @@ embedded/Core/Src/system_stm32* linguist-generated=true
 embedded/Core/Src/*_hal_msp.c linguist-generated=true
 embedded/Core/Src/*_it.c linguist-generated=true
 embedded/Core/Src/bmi160.c linguist-generated=true
+embedded/Core/Src/syscalls.c linguist-generated=true
+embedded/Core/Src/sysmem.c linguist-generated=true
 embedded/Core/Inc/bmi160.h linguist-generated=true
 embedded/Core/Inc/bmi160_defs.h linguist-generated=true
 embedded/Core/Inc/FreeRTOSConfig.h linguist-generated=true
+embedded/startup_stm32f411xe.s
+embedded/STM32-IMU-Visualizer.ioc
