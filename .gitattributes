@@ -10,5 +10,5 @@ embedded/Core/Src/sysmem.c linguist-generated=true
 embedded/Core/Inc/bmi160.h linguist-generated=true
 embedded/Core/Inc/bmi160_defs.h linguist-generated=true
 embedded/Core/Inc/FreeRTOSConfig.h linguist-generated=true
-embedded/startup_stm32f411xe.s
-embedded/STM32-IMU-Visualizer.ioc
+embedded/startup_stm32f411xe.s linguist-generated=true
+embedded/STM32-IMU-Visualizer.ioc linguist-generated=true
